@@ -1,9 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <cctype>
 #include <unordered_map>
-#include <type_traits>
 
 
 int main() {
