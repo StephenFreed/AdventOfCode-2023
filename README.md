@@ -10,3 +10,7 @@
 - My Part One Answer: 2283
 - My Part Two Answer: 78669
 
+#### [Day 3: Gear Ratios](day03/)
+- My Part One Answer: 520135 
+- My Part Two Answer: 72514855
+
