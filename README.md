@@ -14,3 +14,7 @@
 - My Part One Answer: 520135 
 - My Part Two Answer: 72514855
 
+#### [Day 4: Scratchcards](day04/)
+- My Part One Answer: 25174
+- My Part Two Answer: 6420979
+
